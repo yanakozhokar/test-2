@@ -1,2 +1,15 @@
-@import './common';
-@import './example';
+@import './utils/hidden';
+@import './utils/variables';
+@import './base/reset';
+@import './base/common';
+@import './components/section';
+@import './components/container';
+@import './components/logo';
+@import './components/btn';
+@import './components/modal';
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/recommendation';
+@import './layouts/sell';
+@import './layouts/review';
+@import './layouts/articles';
